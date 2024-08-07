@@ -20,6 +20,7 @@ header {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
+    align-items: center;
     width: 1000px;
 }
 
@@ -177,3 +178,17 @@ header a:visited {
     height: fit-content;
 }
 
+.footer-container {
+    background-color: #1f2937;
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
