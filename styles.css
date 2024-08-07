@@ -66,3 +66,33 @@ header {
     margin-top: 20px;
     font-weight: bold;
 }
+
+.random-info-title {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.random-info-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.random-images-container {
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-border-radius {
+    width: 180px;
+    height: 180px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.random-images p {
+    width: 180px;
+    padding-top: 10px;
+    text-align: center;
+}
