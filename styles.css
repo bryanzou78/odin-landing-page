@@ -103,6 +103,7 @@ header a:visited {
     height: 180px;
     border-radius: 20px;
     overflow: hidden;
+    object-fit: cover;
 }
 
 .random-images p {
